@@ -145,6 +145,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   completeSound: {fileID: 2420725102691178129}
+  stayTime: 0.5
 --- !u!82 &2420725102691178129
 AudioSource:
   m_ObjectHideFlags: 0

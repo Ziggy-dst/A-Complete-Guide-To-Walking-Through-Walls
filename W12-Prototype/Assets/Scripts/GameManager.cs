@@ -86,7 +86,7 @@ public class GameManager : MonoBehaviour
 
         while (alpha > 0f)
         {
-            print(alpha);
+            // print(alpha);
             alpha -= Time.deltaTime * fadeSpeed;
             canvasGroup.alpha = alpha;
             yield return null;

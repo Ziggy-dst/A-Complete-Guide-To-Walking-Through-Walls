@@ -41,7 +41,6 @@ public class StartZone : MonoBehaviour
         }
     }
 
-
     private void CountDown()
     {
         if (level.activeSelf) return;
